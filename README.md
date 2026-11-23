@@ -1,1 +1,1 @@
-# computer-network
+# computer-lab
